@@ -5,11 +5,11 @@ import {
   Heading,
   Image,
   Input,
-  Link,
   Stack,
   Text,
   VStack,
 } from '@chakra-ui/react';
+import { Link } from 'react-router-dom';
 import React, { useState } from 'react';
 import '../Home/home.css';
 

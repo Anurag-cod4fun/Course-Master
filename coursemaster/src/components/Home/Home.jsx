@@ -31,7 +31,7 @@ function Home() {
           <VStack width={'full'} alignItems={['center', 'flex-end']} spacing={8}>
             <Heading
               textAlign={['center', 'left']}
-              children="LEARN FORM THE EXPERTS"
+              children="LEARN FROM THE EXPERTS"
               size={'2xl'}
             />
             <Text
