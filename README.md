@@ -42,9 +42,24 @@ To get a local copy up and running, follow these simple steps:
    git clone https://github.com/your-username/edumaster.git
    ```
 2. Navigate to the project directory
-3. Install NPM packages
-4. Set up your environment variables in a .env file
-5. Start the development server
+   ```sh
+      cd course-master
+   ```
+4. Install NPM packages
+   ```sh
+      npm install
+   ```
+6. Set up your environment variables in a .env file
+   ```sh
+   MONGO_URI=your_mongodb_uri
+   RAZORPAY_KEY_ID=your_razorpay_key_id
+   RAZORPAY_KEY_SECRET=your_razorpay_key_secret
+   JWT_SECRET=your_jwt_secret
+   ```
+8. Start the development server
+   ```sh
+   npm run dev
+   ```
 
 ## Usage
 Admin Login: Access the admin dashboard to manage the website.
