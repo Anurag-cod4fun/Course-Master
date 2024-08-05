@@ -67,7 +67,9 @@ User Login: Create an account and log in to enroll in courses.
 Dark Mode: Toggle the theme using the switch in the user profile.
 Payments: Purchase courses using the integrated Razorpay gateway.
 Analytics: View detailed analytics on the admin dashboard.
-Screenshots
+
+##Screenshots
+
 Home Page
 
 Course Page
