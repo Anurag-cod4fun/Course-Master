@@ -71,7 +71,7 @@ Analytics: View detailed analytics on the admin dashboard.
 ## Screenshots
 
 Home Page
-![alt text]([http://url/to/img.png](https://github.com/Anurag-cod4fun/Images/blob/master/headpage.png))
+![screenshot](https://github.com/Anurag-cod4fun/Images/blob/master/headpage.png)
 Course Page
 
 Admin Dashboard
