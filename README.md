@@ -73,11 +73,11 @@ Analytics: View detailed analytics on the admin dashboard.
 Home Page
 ![screenshot](https://github.com/Anurag-cod4fun/Images/blob/master/headpage.png)
 Course Page
-
+![screenshot](https://github.com/Anurag-cod4fun/Images/blob/master/course.png)
 Admin Dashboard
-
+![screenshot](https://github.com/Anurag-cod4fun/Images/blob/master/dashboard.png)
 Dark Mode
-
+![screenshot](https://github.com/Anurag-cod4fun/Images/blob/master/about%20me.png)
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
