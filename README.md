@@ -1,6 +1,6 @@
 # EduMaster
 
-![EduMaster Logo](https://via.placeholder.com/728x90.png?text=EduMaster+Logo)
+![EduMaster](https://via.placeholder.com/728x90.png?text=EduMaster)
 
 Welcome to **EduMaster**, an advanced online course website that offers a seamless learning experience. With features like admin and user login, Razorpay payment gateway, dark mode, and comprehensive data analytics, EduMaster is designed to cater to all your educational needs.
 
